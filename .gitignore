@@ -1,6 +1,6 @@
 # Ignore todo excepto los archivos seleccionados
 *
 !.gitignore
-!.platformio.ini
-!*/Marlin/Configuration_adv.h
-!*/Marlin/Configuration.h
+!/Marlin
+!platformio.ini
+
